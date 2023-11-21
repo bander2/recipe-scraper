@@ -1,0 +1,5 @@
+Django
+recipe-scrapers
+pandas
+pyyaml
+python-slugify
